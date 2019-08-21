@@ -1,0 +1,28 @@
+.about {
+    
+}
+
+.about hr {
+    border: none;
+    height: 1px;
+    background-color: #333;
+}
+
+.about h1 {
+    font-size: 26px;
+    margin-bottom: 0;
+}
+
+.about h2 {
+    font-size: 14px;
+    margin: 0 0 20px 0;
+    color: rgb(41, 41, 41);
+}
+
+.about p, li {
+    font-size: 14px;
+    margin: 0 0 20 0;
+}
+
+
+

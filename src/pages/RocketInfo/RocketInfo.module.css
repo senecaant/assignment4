@@ -1,0 +1,62 @@
+.rocketInfo {
+    margin-bottom: 25px;
+}
+
+.rocketInfo hr {
+    border: none;
+    height: 1px;
+    background-color: #333;
+}
+
+.rocketInfo h1 {
+    font-size: 26px;
+    margin-bottom: 0;
+}
+
+.rocketInfo h2 {
+    font-size: 14px;
+    margin: 0 0 20px 0;
+    color: rgb(41, 41, 41);
+}
+
+.rocketInfo p, h3 {
+    font-size: 14px;
+    margin: 0 0 20 0;
+}
+
+.rocketInfo h3 {
+    text-align: center;
+    margin: 0;
+}
+
+.rocketInfo a {
+    font-size: 14px;
+    text-decoration: none;
+    color: black;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.rocketInfo a:hover {
+    color: white;
+    background-color: black;
+}
+
+.rocketInfo img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 50%;
+    height: 250px;
+    cursor: pointer; 
+    object-fit: contain;
+}
+
+.redText {
+    color: red;
+}
+
+.greenText {
+    color: green;
+}

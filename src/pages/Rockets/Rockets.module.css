@@ -1,0 +1,54 @@
+.rockets {
+    
+}
+
+.rockets section {
+    margin-bottom: 15px;
+}
+
+.rockets .cardWrapper  {
+    display: flex;
+}
+
+.rockets .cardWrapper .leftCard {
+    margin-right: 30px;
+}
+
+.rockets .cardWrapper .leftCard img {
+    height: 200px;
+    width: 200px;
+    object-fit: contain;
+    border-radius: 20px;
+}
+
+.rockets .cardWrapper .rightCard {
+    width: 70%;
+}
+
+.rockets hr {
+    border: none;
+    height: 1px;
+    background-color: #333;
+}
+
+.rockets h1 {
+    font-size: 26px;
+    margin-bottom: 0;
+}
+
+.rockets h2 {
+    font-size: 14px;
+    margin: 0 0 20px 0;
+    color: rgb(41, 41, 41);
+}
+
+.rockets p {
+    font-size: 14px;
+    margin: 0;
+}
+
+.rockets a {
+    color: black;
+    text-decoration: none;
+}
+
